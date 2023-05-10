@@ -19,9 +19,9 @@ Usually, the installation was done within 10 min each.
 ## Contents list
 
 ### Data:
-1. Datafile.xlsx
-2. OT04906DR_data
-3. Y0425132162_data
+1. Datafile.xlsx (Figs.2-6, Supp.Figs.1-3)
+2. OT04906DR_data (Fig.2ef)
+3. Y0425132162_data (Fig.2b)
 
 ### Codes:
 1. Fig2b_graphic.m
