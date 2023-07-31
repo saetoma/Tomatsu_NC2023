@@ -19,7 +19,7 @@ Usually, the installation was done within 10 min each.
 ## Contents list
 
 ### Data:
-1. Datafile.xlsx (Figs.2-6, Supp.Figs.1-3)
+1. SourceData_*.xlsx (Figs.2-6, Supp.Figs.1-4)
 2. OT04906DR_data (Fig.2ef)
 3. Y0425132162_data (Fig.2b)
 
@@ -30,5 +30,6 @@ Usually, the installation was done within 10 min each.
 4. Fig4_Supp1cdef_graphic.R
 5. Fig5_Supp3_graphic.R
 6. SuppFig2.R
+7. Supp4_graphic.R
 
 The run time is within 1 min each on the normal PC.
